@@ -1,4 +1,3 @@
-import { throwStatement } from "@babel/types";
 import React, { Component } from "react";
 
 import Modal from "../../components/UI/Modal/Modal";
